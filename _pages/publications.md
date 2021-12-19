@@ -20,7 +20,7 @@ You can find all my articles on my <u><a href="https://scholar.google.com/citati
   [[Journal]](https://pubs.acs.org/doi/abs/10.1021/acscatal.0c01971), [[Pdf]](/files/acscatal_2020.pdf)  
   <img src="/files/acs_2020_toc.png" width="400" height="200">
   
-- **Quantifying robustness of DFT predicted pathways and activity determining elementary steps for electrochemical reactions**
+- **Quantifying robustness of DFT predicted pathways and activity determining elementary steps for electrochemical reactions**  
   D. Krishnamurthy, V. Sumaria and V. Viswanathan, J. Chem. Phys. 150, 041717 (2019)  
   [[Journal]](https://aip.scitation.org/doi/abs/10.1063/1.5056167), [[Pdf]](/files/jcp_2019.pdf)  
   
