@@ -11,9 +11,9 @@ author_profile: true
 
 *denotes equal contribution
 
-[^1:] CO organization at ambient pressure on stepped Pt surfaces: first principles modeling accelerated by neural networks
-    V. Sumaria, and P. Sautet \n
-    Chem. Sci., 2021, 12, 15543-15555 \n
-    [Journal](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc03827c), [Pdf](/files/RSC_2021.pdf) \n
-    ![This is an image](files/RSC_2021_TOC.jpg)
-[^2:] 
+- CO organization at ambient pressure on stepped Pt surfaces: first principles modeling accelerated by neural networks. 
+  V. Sumaria, and P. Sautet \n.  
+  Chem. Sci., 2021, 12, 15543-15555 \n. 
+  [Journal](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc03827c), [Pdf](/files/RSC_2021.pdf) \n. 
+  ![This is an image](files/RSC_2021_TOC.jpg). 
+
