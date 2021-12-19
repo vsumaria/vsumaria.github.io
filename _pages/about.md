@@ -10,6 +10,10 @@ redirect_from:
 
 I am a Graduate Ph.D. Student in the Department of Chemical Engineering at University of California Los Angeles working with [Dr. Philippe Sautet](http://www.seas.ucla.edu/sautet-group/member/).  My reseach is in the field of computational material science and it's application in surface science, electrochemical and enenrgy storage systems, catalysis and amorphous metallic systems. My reserch at UCLA utilizes Density Functional Theory with Machine Learning to understand metal/gas interfaces and surface reconstructions and identify new materials for chemical transformations. I received my M.S. in Chemical Engineering at Carnegie Mellon University where by thesis project was [Dr. Venkat Viswanathan](https://www.cmu.edu/me/venkatgroup/index.html) and I graduated with a B.Tech. in Chemical Engineering from University of Petroleum and Energy studies, Dehradun, India winnign the silver medal (class topper). 
 
+Research
+------------------
+
+
 <!---
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
