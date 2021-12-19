@@ -32,6 +32,8 @@ You can find all my articles on <u><a href="{{author.googlescholar}}">my Google 
 - **Maximal predictability approach for identifying the right descriptors for electrocatalytic reactions**  
   D. Krishnamurthy*, V. Sumaria* and V. Viswanathan, J. Phys. Chem. Lett. 2018, 9, 3, 588–595     
   [[Journal]](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b02895), [[Pdf]](/files/JPCL_Paper.pdf)  
-  <img src="/files/UQ_JPCL_TOC.png" width="300" height="300"> 
+  <img src="/files/UQ_JPCL_TOC.png" width="300" height="300">.  
+  
+*Note: The material on this website is intended for the private use of individual scholars. It is not for commercial use or for financial gain. Some of the material is protected by copyright. Requests for permission to make public use of any of the papers, or the material therein, should be sought from the copyright holder/original publisher, or from the authors, as appropriate.*
   
   
