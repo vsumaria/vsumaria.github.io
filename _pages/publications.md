@@ -22,7 +22,7 @@ author_profile: true
   <img src="/files/acs_2020_toc.png" width="400" height="200">
   
 - **Quantifying robustness of DFT predicted pathways and activity determining elementary steps for electrochemical reactions**
-  D. Krishnamurthy, V. Sumaria and V. Viswanathan, J. Chem. Phys. 150, 041717 (2019)
+  D. Krishnamurthy, V. Sumaria and V. Viswanathan, J. Chem. Phys. 150, 041717 (2019)  
   [[Journal]](https://aip.scitation.org/doi/abs/10.1063/1.5056167), [[Pdf]](/files/jcp_2019.pdf)  
   
 - **Quantifying Confidence in DFT Predicted Surface Pourbaix Diagrams and Associated Reaction Pathways for Chlorine Evolution**  
