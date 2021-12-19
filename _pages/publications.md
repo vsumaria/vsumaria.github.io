@@ -28,6 +28,11 @@ author_profile: true
 - **Quantifying Confidence in DFT Predicted Surface Pourbaix Diagrams and Associated Reaction Pathways for Chlorine Evolution**  
   V. Sumaria, D. Krishnamurthy and V. Viswanathan, ACS Catal. 2018, 8, 10, 9034–9042  
   [[Journal]](https://pubs.acs.org/doi/10.1021/acscatal.8b01432), [[Pdf]](/files/ClER_arXiv.pdf)  
-  <img src="/files/ClER_TOC.png" width="200" height="200"> 
+  <img src="/files/ClER_TOC.png" width="300" height="300"> 
 
-- 
+- **Maximal predictability approach for identifying the right descriptors for electrocatalytic reactions**  
+  D. Krishnamurthy*, V. Sumaria* and V. Viswanathan, J. Phys. Chem. Lett. 2018, 9, 3, 588–595     
+  [[Journal]](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b02895), [[Pdf]](/files/JPCL_Paper.pdf)
+  <img src="/files/UQ_JPCL_TOC.png" width="300" height="300"> 
+  
+  
