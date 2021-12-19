@@ -12,7 +12,8 @@ I am a Graduate Ph.D. Student in the Department of Chemical Engineering at Unive
 
 Research
 ------------------
-
+My Ph.D. research, funded primarily [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1800601&HistoricalAwards=false), is a collaborative work with Dr. Sautet (UCLA) and Dr. Tao (previously at Kansas University). The aim of the work is understanding adsorbate induced reconstruction. To be able to effeciently perform simulation on these complex systems involing surfaces with steps, kinks and different number of adsorbates and reaction conditions, we uilize High Dimentional Neural Network Potentials (HDDNP) and fast exploration algoriths (Basin hopping, genetic algorithm etc.). 
+As a Computational Chemistry Intern at [Phaseshift Technologies](https://www.thephaseshift.com/), I worked on generating database for Bulk Metallic glass (BMG) alloy properties to train machine learning models for mechanical property prediction. I also developed framework for creating interatomic potentials for BMG with different compositions for rapid screening. 
 
 <!---
 
