@@ -15,9 +15,8 @@ author_profile: true
   V. Sumaria, and P. Sautet   
   Chem. Sci., 2021, 12, 15543-15555  
   [[Journal]](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc03827c), [[Pdf]](/files/RSC_2021.pdf)  
-  <img src="files/RSC_2021_TOC.jpg" width=400>
-  
-  
+  <img src="files/RSC_2021_TOC.jpg" width="400">
+
  [This is an image](/files/RSC_2021_TOC2.jpg)
 - Optimal packing of CO at high coverage on Pt(100) and Pt(111) surfaces.  
   V. Sumaria, and P. Sautet
