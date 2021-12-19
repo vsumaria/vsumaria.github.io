@@ -32,7 +32,7 @@ author_profile: true
 
 - **Maximal predictability approach for identifying the right descriptors for electrocatalytic reactions**  
   D. Krishnamurthy*, V. Sumaria* and V. Viswanathan, J. Phys. Chem. Lett. 2018, 9, 3, 588–595     
-  [[Journal]](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b02895), [[Pdf]](/files/JPCL_Paper.pdf)
+  [[Journal]](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b02895), [[Pdf]](/files/JPCL_Paper.pdf)  
   <img src="/files/UQ_JPCL_TOC.png" width="300" height="300"> 
   
   
