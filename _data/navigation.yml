@@ -12,5 +12,5 @@ main:
   - title: "Resources"
     url: /resources/
     
-  - title: "Data"
-    url: /struc_data/
+ # - title: "Data"
+ #   url: /struc_data/
