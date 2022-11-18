@@ -10,6 +10,11 @@ You can find all my articles on my <u><a href="https://scholar.google.com/citati
 
 *denotes equal contribution
 
+- **Atomic scale mechanism of Pt catalyst restructuring under a pressure of gas**  
+  V. Sumaria, L. Nguyen, F. F.Tao, and P. Sautet, ChemRxiv, Cambridge: Cambridge Open Engage; 2022
+  [[ChemRxiv]](https://chemrxiv.org/engage/chemrxiv/article-details/62e88332ab60502e19ef22d0), [[Pdf]](/files/Pt_island_CO_JACS_review_nomarking.pdf)  
+  <img src="/files/TOC_pt_recon.pdf" width="400" height="200">
+
 - **CO organization at ambient pressure on stepped Pt surfaces: first principles modeling accelerated by neural networks**  
   V. Sumaria, and P. Sautet, Chem. Sci., 2021, 12, 15543-15555.  
   [[Journal]](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc03827c), [[Pdf]](/files/RSC_2021.pdf)  
